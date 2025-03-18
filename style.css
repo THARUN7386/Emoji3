@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(199, 124, 39);
+
+}
+.emoji-face{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(213, 183, 61);
+    border-radius: 50%;
+    position: relative;
+}
+.eye1{
+    position: absolute;
+    height: 11px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: rgb(18, 17, 17);
+    top: 30px;
+    left: 20px;
+
+}
+.eye2{
+    position: absolute;
+    height: 11px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: rgb(6, 5, 5);
+    top: 30px;
+    left: 65px;
+}
+.mouth{
+    position: absolute;
+    height: 35px;
+    width: 75px;background-color: rgb(175, 15, 15);
+    border-radius: 0 0 70px 70px ;
+    top: 55px;
+    left: 13px;
+    overflow: hidden;
+}
+.toungue{
+    position: absolute;
+    height: 55px;
+    width: 35px;background-color: rgb(216, 13, 108);
+    border-radius:  70px 70px ;
+    top: 18px;
+    left: 20px;
+    
+}
+body{
+    background-color: rgb(199, 124, 39);
+}
+.mouth1{
+    position: absolute;
+    height: 10px;
+    width: 59px;background-color: rgb(27, 26, 26);
+    top: 65px;
+    left: 20px;
+}
+.mouth2{
+    position: absolute;
+    height: 30px;
+    width: 20px;background-color: rgb(27, 26, 26);
+    top: 60px;
+    left: 55px;
+    border-radius: 50%;
+}
+
+.eye11{
+    position: absolute;
+    height: 22px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: rgb(11, 10, 10);
+    top: 20px;
+    left: 20px;
+
+}
+.eye111{
+    position: absolute;
+    height: 10px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: rgb(209, 204, 204);
+    top: 21px;
+    left: 24px;
+
+}
+.eye22{
+    position: absolute;
+    height: 22px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: rgb(25, 24, 24);
+    top: 20px;
+    left: 60px;
+}
+.eye222{
+    position: absolute;
+    height: 10px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: rgb(209, 204, 204);
+    top: 21px;
+    left: 66px;
+
+}
